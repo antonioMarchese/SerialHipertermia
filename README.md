@@ -5,7 +5,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## To compile you should write in your terminal
+## To compile, you should write in your terminal
 ### $ g++ -lm -O3 main.cpp -o 'file_name'
 ## Then, to run 
 ### $ ./'file_name'
